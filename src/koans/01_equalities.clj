@@ -36,4 +36,4 @@
   (= nil nil)
 
   "When things cannot be equal, they must be different"
-  (not= :fill-in-the-blank __))
+  (not= :fill-in-the-blank :foo))
